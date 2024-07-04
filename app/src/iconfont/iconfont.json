@@ -1,0 +1,23 @@
+{
+  "id": "4187354",
+  "name": "排序",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "6151316",
+      "name": "wind-descending",
+      "font_class": "wind-descending",
+      "unicode": "e838",
+      "unicode_decimal": 59448
+    },
+    {
+      "icon_id": "6151317",
+      "name": "wind-ascending",
+      "font_class": "wind-ascending",
+      "unicode": "e839",
+      "unicode_decimal": 59449
+    }
+  ]
+}
